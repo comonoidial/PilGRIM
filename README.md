@@ -1,2 +1,3 @@
-# PilGRIM
-The Pipelined Graph Reduction Instruction Machine
+# The Pipelined Graph Reduction Instruction Machine
+
+This repository is just a placeholder for now...
